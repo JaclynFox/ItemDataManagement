@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\getCar\\getCar\\GetItem.csproj": {}
+    "C:\\Users\\Administrator\\source\\repos\\ItemDataManagement\\getCar\\getCar\\GetItem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\getCar\\getCar\\GetItem.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\ItemDataManagement\\getCar\\getCar\\GetItem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\getCar\\getCar\\GetItem.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\ItemDataManagement\\getCar\\getCar\\GetItem.csproj",
         "projectName": "GetItem",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\getCar\\getCar\\GetItem.csproj",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\ItemDataManagement\\getCar\\getCar\\GetItem.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\getCar\\getCar\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\ItemDataManagement\\getCar\\getCar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
